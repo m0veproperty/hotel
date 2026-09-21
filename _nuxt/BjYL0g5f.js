@@ -1,0 +1,1 @@
+import t from"./Bwj-v10X.js";import{a as o,c as n,o as s,d as c}from"./Bs3zedt4.js";import"./CM0nQ5W8.js";import"./CafFDt35.js";const i={},r={class:"dining-offers"};function _(f,a){const e=t;return s(),n("section",r,[c(e,{title:"Dining Offers","post-type":"dining_offer"})])}const g=o(i,[["render",_]]);export{g as default};

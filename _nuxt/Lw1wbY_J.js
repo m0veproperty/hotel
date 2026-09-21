@@ -1,0 +1,1 @@
+import e from"./Bwi60obR.js";import{y as t,c as o,o as s,b as n,d as c}from"./Bs3zedt4.js";import"./CM0nQ5W8.js";const r={class:"culture-list"},a={class:"container"},d=t({__name:"SectionCultureList",setup(i){return(l,p)=>(s(),o("section",r,[n("div",a,[c(e,{postType:"culture",showOrnament:!0,linkType:"plain"})])]))}});export{d as default};

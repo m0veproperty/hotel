@@ -1,0 +1,1 @@
+import{a as e,c,o as s,b as a,d as t,e as n}from"./Bs3zedt4.js";const _={},r={class:"footer"},d={class:"container"};function f(i,l){const o=n;return s(),c("footer",r,[a("div",d,[t(o,{class:"logo"})])])}const p=e(_,[["render",f],["__scopeId","data-v-bfa5769c"]]);export{p as default};

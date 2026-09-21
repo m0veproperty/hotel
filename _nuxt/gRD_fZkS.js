@@ -1,0 +1,1 @@
+import{y as o,C as a,c,o as r,i as s}from"./Bs3zedt4.js";const l=["innerHTML"],i=o({__name:"VoldFullBlock",props:{data:{type:Object,default:()=>({})}},setup(t){const e=t,n=a(()=>e.data.block[0].data.content);return(p,d)=>(r(),c("div",{innerHTML:s(n)},null,8,l))}});export{i as default};

@@ -1,0 +1,1 @@
+import{a as t,c as o,o as s,b as n}from"./Bs3zedt4.js";const r={},a={width:"8",height:"12",viewBox:"0 0 8 12",fill:"none",xmlns:"http://www.w3.org/2000/svg"};function c(_,e){return s(),o("svg",a,e[0]||(e[0]=[n("path",{d:"M2 10L6 6L2 2",stroke:"white","stroke-width":"1.5","stroke-linecap":"square"},null,-1)]))}const l=t(r,[["render",c]]);export{l as default};

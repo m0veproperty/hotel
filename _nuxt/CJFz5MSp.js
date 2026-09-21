@@ -1,0 +1,1 @@
+import o from"./Bwi60obR.js";import{y as e,c as t,o as a,d as s,a as n}from"./Bs3zedt4.js";import"./CM0nQ5W8.js";const c={class:"bungalow-list"},r=e({__name:"SectionBungalowList",setup(i){return(p,_)=>(a(),t("div",c,[s(o,{postType:"bungalow",showOrnament:!0,linkType:"plain"})]))}}),d=n(r,[["__scopeId","data-v-5a3e3af9"]]);export{d as default};

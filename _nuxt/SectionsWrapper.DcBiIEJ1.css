@@ -1,0 +1,1 @@
+.main-wrapper.horizontal{display:flex;flex-direction:row;flex-wrap:nowrap;overflow-y:hidden;width:-moz-fit-content;width:fit-content}.main-wrapper.horizontal.reflow{width:120vw}@media (max-width:599.98px){.main-wrapper.horizontal{display:block;overflow-y:unset}}

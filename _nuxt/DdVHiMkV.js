@@ -1,0 +1,1 @@
+import e from"./Bwi60obR.js";import{y as o,c as t,o as s,d as r}from"./Bs3zedt4.js";import"./CM0nQ5W8.js";const n={class:"offers-list"},_=o({__name:"SectionOffersList",setup(a){return(c,i)=>(s(),t("div",n,[r(e,{postType:"offer",showOrnament:!0,linkType:"plain"})]))}});export{_ as default};
